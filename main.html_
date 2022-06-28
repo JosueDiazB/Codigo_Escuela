@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>La Bicla</title>
+<body>
+<div>lalaland@gmail.com</div>
+<h1>La Bicla</h1>
+<form action="buscar" method="GET">
+<input type="text" name="criterio">
+<input type="submit" value="Buscar">
+</form>
+</body>
+</html>

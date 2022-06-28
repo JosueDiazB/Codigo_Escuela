@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>La Bicla</title>
+</head>
+<body> 
+
+<h1>Bienvenidos cletos</h1>
+
+
+<form action="autenticar.controller" method="GET">
+  <p>Email</p>
+  <input type="text" name="email">
+  <p>Password</p>
+  <input type="text" name=password>
+  <input type="submit" value="Ingresar">
+</form>
+
+</body>
+</html>
